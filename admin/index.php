@@ -12,6 +12,7 @@
 */
 
 $config_folder = dirname(__FILE__) . '/../application/config/';
+helo
 $config_file = $config_folder . 'config.php';
 if (!file_exists($config_file))
 {
