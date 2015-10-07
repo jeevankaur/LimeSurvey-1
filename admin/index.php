@@ -10,7 +10,7 @@
 * other free or open source software licenses.
 * See COPYRIGHT.php for copyright notices and details.
 */
-
+<h1>hello</h1>
 $config_folder = dirname(__FILE__) . '/../application/config/';
 $config_file = $config_folder . 'config.php';
 if (!file_exists($config_file))
